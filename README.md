@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Sovego
-- 👀 I’m interested in Game develop 
-- 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sovego/Sovego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![wakatime](https://wakatime.com/badge/user/ddf0d2a7-f05b-4a5b-8910-e698db439d89.svg)](https://wakatime.com/@ddf0d2a7-f05b-4a5b-8910-e698db439d89)
