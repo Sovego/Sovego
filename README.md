@@ -2,7 +2,7 @@
 
 [![WakaTime](https://wakatime.com/badge/user/ddf0d2a7-f05b-4a5b-8910-e698db439d89.svg)](https://wakatime.com/@ddf0d2a7-f05b-4a5b-8910-e698db439d89)
 
-Welcome to my GitHub profile! I'm a passionate **ML Engineer** focused on computer vision and NLP tasks. I also enjoy building websites and mobile applications when I can.
+Welcome to my GitHub profile! I'm a **ML Engineer** focused on computer vision and NLP tasks. I also enjoy building websites and mobile applications when I can.
 
 ---
 
